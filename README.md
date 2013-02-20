@@ -1,4 +1,4 @@
 setup
 =====
 
-Reminders on how to setup new machines
+This is a wiki-only project with reminders on how to setup new machines.
